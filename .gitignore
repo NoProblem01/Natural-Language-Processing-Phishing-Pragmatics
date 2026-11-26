@@ -1,0 +1,21 @@
+# Secrets & API Keys
+.env
+kaggle.json
+
+# Raw / Large Datasets (keep small labeled splits in data/splits/ instead)
+data/raw/
+*.csv
+*.parquet
+*.zip
+*.tar.gz
+
+# Jupyter Notebook & Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db

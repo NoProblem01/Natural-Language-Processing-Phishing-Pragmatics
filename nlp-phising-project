@@ -1,0 +1,7 @@
+nlp-phishing-pragmatics/
+├── README.md                 # Shared checklist & project overview
+├── data/
+│   ├── dev_set.json          # Partner A's labeled dev emails
+│   └── test_set_FROZEN.json  # Untouched until final run
+├── experiments.ipynb         # Partner B: baseline, prompts v1–v3, F1 scores, error analysis
+└── app/                      # Clickable Phishing Trainer (e.g., index.html or app.py)
