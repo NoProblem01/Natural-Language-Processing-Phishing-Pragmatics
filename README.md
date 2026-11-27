@@ -31,7 +31,7 @@ Partner B: Pavel
 - [ ] **[Partner A]** Lead qualitative error analysis in `evaluation/error_analysis.md` (missed cues, false positives on benign urgency).
 - [ ] **[Both]** Review all evaluation results and verify edge cases together.
 
-## Step 6: Document & App Concept (Slides 13–15)
+## Step 6: Document & App Concept 
 - [ ] **[Partner A]** Document privacy, bias, and limitations (e.g., German vs. English phishing, text-only limits).
 - [ ] **[Partner B]** Build clickable Phishing Trainer prototype in `app/` using the winning v3 agent prompt.
 - [ ] **[Both]** Finalize the 15-slide report and verify every claim is backed by data.
