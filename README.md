@@ -1,5 +1,8 @@
 # Phishing & Pragmatics: NLP Seminar Project (AAU WS 2026/27)
 
+Partner A: Nils
+Partner B: Pavel
+
 **Roles:**
 - **Partner A:** Linguistics & Data
 - **Partner B:** LLM Input & Evaluation
