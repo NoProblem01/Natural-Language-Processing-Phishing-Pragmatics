@@ -31,5 +31,5 @@
 ## Step 6: Document & App Concept (Slides 13–15)
 - [ ] **[Partner A]** Document privacy, bias, and limitations (e.g., German vs. English phishing, text-only limits).
 - [ ] **[Partner B]** Build clickable Phishing Trainer prototype in `app/` using the winning v3 agent prompt.
-- [ ] **[Both]** Finalize the 15-slide report and verify every claim is backed by dat
+- [ ] **[Both]** Finalize the 15-slide report and verify every claim is backed by data.
 - [ ] 
